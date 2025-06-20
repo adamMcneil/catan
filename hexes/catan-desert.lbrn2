@@ -41,7 +41,7 @@
     <CutSetting type="Scan">
         <index Value="1"/>
         <name Value="C01"/>
-        <maxPower Value="100"/>
+        <maxPower Value="80"/>
         <maxPower2 Value="20"/>
         <speed Value="300"/>
         <priority Value="0"/>
@@ -54,7 +54,6 @@
     </CutSetting>
     <Shape Type="Polygon" CutIndex="0" Rx="45.033314" Ry="45.033314" N="6">
         <XForm>1 0 0 1 100 100</XForm>
-        <Tabs>-22.516663,-38.999989 </Tabs>
     </Shape>
     <Shape Type="Path" CutIndex="1" VertID="0">
         <XForm>1.1074926 0 0 1.1074926 -6.3058548 159.56891</XForm>
