@@ -27,9 +27,9 @@
     <CutSetting type="Cut">
         <index Value="0"/>
         <name Value="C00"/>
-        <maxPower Value="75"/>
+        <maxPower Value="100"/>
         <maxPower2 Value="20"/>
-        <speed Value="3.33333"/>
+        <speed Value="1.66667"/>
         <priority Value="1"/>
         <manualTabs Value="0"/>
         <tabSize Value="0.2"/>
@@ -45,7 +45,6 @@
         <maxPower2 Value="20"/>
         <speed Value="300"/>
         <priority Value="0"/>
-        <doOutput Value="0"/>
         <manualTabs Value="0"/>
         <tabSize Value="0.2"/>
         <tabCount Value="1"/>
